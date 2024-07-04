@@ -4,7 +4,7 @@ public class Main {
         favCars[0][0] = "Bugatti";
         favCars[0][1] = "Lamborghini";
         favCars[0][2] = "Ferrari";
-        favCars[1][0] = "BMW";
+        favCars[1][0] = "BMW-M4-Competition";
         favCars[1][1] = "Porche"; 
         favCars[1][2] = "F-150";
         favCars[2][0] = "Land Cruiser";
