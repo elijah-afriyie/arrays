@@ -1,0 +1,1 @@
+How can you use a 2D array in Java to store a list of favorite cars and then print them using nested `for` loops? Use the method where the size of the array is specified.
