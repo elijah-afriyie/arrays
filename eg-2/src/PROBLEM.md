@@ -1,0 +1,1 @@
+How can you use a 2D array in Java to store a predefined list of cars and then print them using nested `for` loops?
